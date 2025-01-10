@@ -1,4 +1,9 @@
-# Bases
+# Angular Basics
+
+This project is about a list of superhero cards with the information of each hero, you can modify and delete the information, the idea is to use the Angular bases in a small project.
+
+
+### Bases
 
 ## Development server
 
